@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"c:\users\timda\documents\visual studio 2015\Projects\RobbieRotten\RobbieRotten\obj\x86\Release\filemap.scale-100.pri"			"resources.pri"
+"c:\users\timda\documents\visual studio 2015\Projects\RobbieRotten\RobbieRotten\obj\x86\Release\PackageLayout\Assets\Wide310x150Logo.scale-100.png"			"Assets\Wide310x150Logo.scale-100.png"

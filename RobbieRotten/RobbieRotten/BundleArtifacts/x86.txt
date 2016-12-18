@@ -1,0 +1,2 @@
+MainPackage=c:\users\timda\documents\visual studio 2015\Projects\RobbieRotten\RobbieRotten\bin\x86\Release\RobbieRotten_1.0.1.0_x86.appx
+SymbolPackage=C:\Users\timda\Documents\App Package\RobbieRotten_1.0.1.0_Test\RobbieRotten_1.0.1.0_x86.appxsym
