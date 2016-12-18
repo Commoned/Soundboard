@@ -560,3 +560,89 @@ C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release
 C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Dwarf\Where's me drink.wav
 C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Dwarf\Youre nice.wav
 C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Icons\Dwarf.png
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Amazing.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Buulshit.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Chill out.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Come and get me.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Do it now.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Fuck you asswhore.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Fuck you.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Give me your address.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Go kiss moms ass.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Good morning.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Hasta La Vista.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Hello everybody.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Howdy stranger.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Ill be Back.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Im a cop.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Im hungry.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Inconsiderate.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\It has to end here.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\News for you.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\No Deal.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\No problemo.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Party Pooper.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Psychopathic Bitch.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Room for Fist.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Showtime.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Shut UP.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Son of a Bitch.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Stahp it.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Stop Being a pussy.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Stop Shouting.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Stop whining.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Sue Me.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Take it back.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Totally insane.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Want to Fuck with me.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Who are you.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Who's your daddy.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Why Not.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\Wrong.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\WTF did I do wrong.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\WTH did you do.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Audio\Arnold\You Idiot.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\x86\Release\ilc\Assets\Icons\Arnold.png
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Amazing.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Buulshit.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Chill out.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Come and get me.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Do it now.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Fuck you asswhore.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Fuck you.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Give me your address.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Go kiss moms ass.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Good morning.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Hasta La Vista.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Hello everybody.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Howdy stranger.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Ill be Back.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Im a cop.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Im hungry.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Inconsiderate.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\It has to end here.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\News for you.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\No Deal.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\No problemo.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Party Pooper.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Psychopathic Bitch.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Room for Fist.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Showtime.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Shut UP.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Son of a Bitch.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Stahp it.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Stop Being a pussy.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Stop Shouting.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Stop whining.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Sue Me.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Take it back.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Totally insane.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Want to Fuck with me.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Who are you.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Who's your daddy.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Why Not.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\Wrong.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\WTF did I do wrong.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\WTH did you do.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Audio\Arnold\You Idiot.wav
+C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\x86\Release\ilc\in\Assets\Icons\Arnold.png

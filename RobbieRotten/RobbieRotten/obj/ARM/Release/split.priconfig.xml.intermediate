@@ -5,7 +5,7 @@
     <autoResourcePackage qualifier="Scale" />
     <autoResourcePackage qualifier="DXFeatureLevel" />
   </packaging>
-  <index root="\" startIndexAt="c:\users\timda\documents\visual studio 2015\Projects\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\resources.pri">
+  <index root="\" startIndexAt="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\resources.pri">
     <default>
       <qualifier name="Language" value="en-US" />
       <qualifier name="Contrast" value="standard" />

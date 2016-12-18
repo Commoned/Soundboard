@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="b5d00977-10f1-4fdc-917c-3c5ec106770b" Publisher="CN=timda" Version="1.0.3.0" ProcessorArchitecture="arm" />
+  <Identity Name="b5d00977-10f1-4fdc-917c-3c5ec106770b" Publisher="CN=timda" Version="1.0.4.0" ProcessorArchitecture="arm" />
   <mp:PhoneIdentity PhoneProductId="b5d00977-10f1-4fdc-917c-3c5ec106770b" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>HalfLife3</DisplayName>

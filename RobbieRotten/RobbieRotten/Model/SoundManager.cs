@@ -68,6 +68,11 @@ namespace RobbieRotten.Model
             Path.GetFileNameWithoutExtension(file)).ToArray();
             foreach (string fileName in dwarf)
                 sounds.Add(new Sound(fileName, SoundCategory.Dwarf));
+            //***************************************************************************************************************
+            string[] arnold = Directory.GetFiles("Assets/Audio/Arnold").Select(file =>
+            Path.GetFileNameWithoutExtension(file)).ToArray();
+            foreach (string fileName in arnold)
+                sounds.Add(new Sound(fileName, SoundCategory.Arnold));
 
 
             return sounds;

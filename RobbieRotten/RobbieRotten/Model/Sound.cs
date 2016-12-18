@@ -29,6 +29,7 @@ namespace RobbieRotten.Model
         Games,
         Overwatch,
         Sovereign,
-        Dwarf
+        Dwarf,
+        Arnold
     }
 }

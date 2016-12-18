@@ -3,5 +3,5 @@
 "ResourceDimensions"		"scale-100"
 
 [Files]
-"c:\users\timda\documents\visual studio 2015\Projects\RobbieRotten\RobbieRotten\obj\ARM\Release\split.scale-100.pri"			"resources.pri"
-"c:\users\timda\documents\visual studio 2015\Projects\RobbieRotten\RobbieRotten\obj\ARM\Release\PackageLayout\Assets\Wide310x150Logo.scale-100.png"			"Assets\Wide310x150Logo.scale-100.png"
+"C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\ARM\Release\split.scale-100.pri"			"resources.pri"
+"C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\ARM\Release\PackageLayout\Assets\Wide310x150Logo.scale-100.png"			"Assets\Wide310x150Logo.scale-100.png"

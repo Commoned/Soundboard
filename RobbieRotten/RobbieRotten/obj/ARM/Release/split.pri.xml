@@ -72,10 +72,559 @@
 					</Candidate>
 				</NamedResource>
 				<ResourceMapSubtree name="Audio">
+					<ResourceMapSubtree name="Arnold">
+						<NamedResource name="Amazing.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Amazing.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Amazing.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Buulshit.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Buulshit.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Buulshit.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Chill out.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Chill out.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Chill out.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Come and get me.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Come and get me.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Come and get me.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Do it now.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Do it now.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Do it now.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Fuck you asswhore.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Fuck you asswhore.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Fuck you asswhore.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Fuck you.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Fuck you.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Fuck you.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Give me your address.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Give me your address.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Give me your address.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Go kiss moms ass.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Go kiss moms ass.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Go kiss moms ass.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Good morning.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Good morning.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Good morning.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Hasta La Vista.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Hasta La Vista.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Hasta La Vista.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Hello everybody.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Hello everybody.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Hello everybody.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Howdy stranger.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Howdy stranger.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Howdy stranger.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Ill be Back.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Ill be Back.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Ill be Back.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Im a cop.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Im a cop.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Im a cop.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Im hungry.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Im hungry.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Im hungry.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Inconsiderate.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Inconsiderate.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Inconsiderate.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="It has to end here.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/It has to end here.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\It has to end here.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="News for you.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/News for you.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\News for you.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="No Deal.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/No Deal.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\No Deal.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="No problemo.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/No problemo.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\No problemo.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Party Pooper.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Party Pooper.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Party Pooper.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Psychopathic Bitch.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Psychopathic Bitch.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Psychopathic Bitch.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Room for Fist.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Room for Fist.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Room for Fist.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Showtime.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Showtime.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Showtime.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Shut UP.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Shut UP.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Shut UP.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Son of a Bitch.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Son of a Bitch.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Son of a Bitch.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Stahp it.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Stahp it.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Stahp it.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Stop Being a pussy.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Stop Being a pussy.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Stop Being a pussy.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Stop Shouting.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Stop Shouting.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Stop Shouting.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Stop whining.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Stop whining.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Stop whining.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Sue Me.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Sue Me.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Sue Me.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Take it back.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Take it back.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Take it back.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Totally insane.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Totally insane.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Totally insane.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Want to Fuck with me.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Want to Fuck with me.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Want to Fuck with me.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Who are you.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Who are you.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Who are you.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Who's your daddy.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Who's your daddy.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Who's your daddy.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Why Not.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Why Not.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Why Not.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Wrong.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/Wrong.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\Wrong.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="WTF did I do wrong.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/WTF did I do wrong.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\WTF did I do wrong.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="WTH did you do.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/WTH did you do.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\WTH did you do.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="You Idiot.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Arnold/You Idiot.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Arnold\You Idiot.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
 					<ResourceMapSubtree name="Dank">
+						<NamedResource name="2SAD4ME.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/2SAD4ME.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\2SAD4ME.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="2SED4AIRHORN.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/2SED4AIRHORN.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\2SED4AIRHORN.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AIRHORN SONATA.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/AIRHORN SONATA.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\AIRHORN SONATA.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AIRHORN.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/AIRHORN.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\AIRHORN.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AIRPORN.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/AIRPORN.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\AIRPORN.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="DAMN SON WOW.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/DAMN SON WOW.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\DAMN SON WOW.wav</Value>
+							</Candidate>
+						</NamedResource>
 						<NamedResource name="Damn Son.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/Damn Son.wav">
 							<Candidate type="Path">
 								<Value>Assets\Audio\Dank\Damn Son.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Darude - Dankstorm.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/Darude - Dankstorm.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\Darude - Dankstorm.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="DEDOTADED WAM.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/DEDOTADED WAM.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\DEDOTADED WAM.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="GET NOSCOPED.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/GET NOSCOPED.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\GET NOSCOPED.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="HITMARKER.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/HITMARKER.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\HITMARKER.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="intervention 420.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/intervention 420.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\intervention 420.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="MOM GET THE CAMERA.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/MOM GET THE CAMERA.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\MOM GET THE CAMERA.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="NEVER DONE THAT.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/NEVER DONE THAT.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\NEVER DONE THAT.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Oh Baby A Triple.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/Oh Baby A Triple.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\Oh Baby A Triple.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="OOOHMYGOOD.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/OOOHMYGOOD.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\OOOHMYGOOD.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="SANIC.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/SANIC.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\SANIC.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="SHOTS FIRED.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/SHOTS FIRED.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\SHOTS FIRED.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="SKRILLEX Scary.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/SKRILLEX Scary.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\SKRILLEX Scary.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="SMOKE WEEK EVERYDAY.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/SMOKE WEEK EVERYDAY.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\SMOKE WEEK EVERYDAY.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="SPOOKY.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/SPOOKY.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\SPOOKY.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="SUCC.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/SUCC.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\SUCC.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="tactical nuke.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/tactical nuke.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\tactical nuke.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Whatcha Say.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/Whatcha Say.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\Whatcha Say.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="WOMBO COMBO.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/WOMBO COMBO.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\WOMBO COMBO.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="wow-.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dank/wow-.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dank\wow-.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Dwarf">
+						<NamedResource name="Attack This one.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Attack This one.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Attack This one.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Attack.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Attack.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Attack.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Boomstick.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Boomstick.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Boomstick.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Brilliant.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Brilliant.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Brilliant.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Cant drink.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Cant drink.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Cant drink.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Cant shoot straight.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Cant shoot straight.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Cant shoot straight.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Charge.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Charge.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Charge.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Chicken.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Chicken.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Chicken.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Cry.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Cry.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Cry.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Damn straight.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Damn straight.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Damn straight.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Dont drink anymore.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Dont drink anymore.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Dont drink anymore.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Dwarven song.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Dwarven song.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Dwarven song.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Enough of this.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Enough of this.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Enough of this.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Fantastic.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Fantastic.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Fantastic.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Follow Me.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Follow Me.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Follow Me.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="For Khaz Modan.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/For Khaz Modan.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\For Khaz Modan.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Generosity.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Generosity.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Generosity.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Greetings.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Greetings.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Greetings.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Guns dont kill people.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Guns dont kill people.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Guns dont kill people.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Hahahaha.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Hahahaha.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Hahahaha.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Heal Me.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Heal Me.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Heal Me.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Hello.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Hello.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Hello.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Help Me.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Help Me.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Help Me.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="How are ya.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/How are ya.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\How are ya.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Hows it hangin.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Hows it hangin.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Hows it hangin.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="I dont have a problem.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/I dont have a problem.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\I dont have a problem.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="I need Healin.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/I need Healin.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\I need Healin.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="I shot the Sheriff.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/I shot the Sheriff.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\I shot the Sheriff.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Lets get to it.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Lets get to it.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Lets get to it.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Like my Beer.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Like my Beer.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Like my Beer.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Meet Again.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Meet Again.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Meet Again.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Not on your Life.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Not on your Life.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Not on your Life.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Open Fire.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Open Fire.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Open Fire.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Pry it from my Hands.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Pry it from my Hands.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Pry it from my Hands.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Run away.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Run away.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Run away.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="See ya.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/See ya.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\See ya.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="social drinker.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/social drinker.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\social drinker.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Sure.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Sure.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Sure.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Thank You.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Thank You.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Thank You.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Theres me drink.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Theres me drink.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Theres me drink.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Where's me drink.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Where's me drink.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Where's me drink.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Youre nice.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Dwarf/Youre nice.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Dwarf\Youre nice.wav</Value>
 							</Candidate>
 						</NamedResource>
 					</ResourceMapSubtree>
@@ -95,9 +644,9 @@
 								<Value>Assets\Audio\Earrape\Embrace Tranquility.wav</Value>
 							</Candidate>
 						</NamedResource>
-						<NamedResource name="High_Noon.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Earrape/High_Noon.wav">
+						<NamedResource name="High Noon.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Earrape/High Noon.wav">
 							<Candidate type="Path">
-								<Value>Assets\Audio\Earrape\High_Noon.wav</Value>
+								<Value>Assets\Audio\Earrape\High Noon.wav</Value>
 							</Candidate>
 						</NamedResource>
 					</ResourceMapSubtree>
@@ -109,24 +658,114 @@
 						</NamedResource>
 					</ResourceMapSubtree>
 					<ResourceMapSubtree name="Overwatch">
-						<NamedResource name="Déjà_vu.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Overwatch/Déjà_vu.wav">
+						<NamedResource name="Déjà vu.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Overwatch/Déjà vu.wav">
 							<Candidate type="Path">
-								<Value>Assets\Audio\Overwatch\Déjà_vu.wav</Value>
+								<Value>Assets\Audio\Overwatch\Déjà vu.wav</Value>
 							</Candidate>
 						</NamedResource>
 					</ResourceMapSubtree>
 					<ResourceMapSubtree name="Sovereign">
+						<NamedResource name="Before Us you Are Nothing.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/Before Us you Are Nothing.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\Before Us you Are Nothing.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Beyond Comprehension.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/Beyond Comprehension.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\Beyond Comprehension.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Cycle cannot be broken.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/Cycle cannot be broken.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\Cycle cannot be broken.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Each a nation.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/Each a nation.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\Each a nation.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="End of Everything.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/End of Everything.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\End of Everything.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Eternal.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/Eternal.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\Eternal.wav</Value>
+							</Candidate>
+						</NamedResource>
 						<NamedResource name="Extinction Inevitable.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/Extinction Inevitable.wav">
 							<Candidate type="Path">
 								<Value>Assets\Audio\Sovereign\Extinction Inevitable.wav</Value>
 							</Candidate>
 						</NamedResource>
+						<NamedResource name="Impose Order.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/Impose Order.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\Impose Order.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Infinite.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/Infinite.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\Infinite.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Legion.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/Legion.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\Legion.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="No Beginning.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/No Beginning.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\No Beginning.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="No escape.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/No escape.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\No escape.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Our numbers.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/Our numbers.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\Our numbers.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Reaper.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/Reaper.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\Reaper.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Return is Coming.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/Return is Coming.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\Return is Coming.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="This Exchange is Over.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/This Exchange is Over.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\This Exchange is Over.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="You are allowed.wav" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Audio/Sovereign/You are allowed.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Sovereign\You are allowed.wav</Value>
+							</Candidate>
+						</NamedResource>
 					</ResourceMapSubtree>
 				</ResourceMapSubtree>
 				<ResourceMapSubtree name="Icons">
+					<NamedResource name="Arnold.png" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Icons/Arnold.png">
+						<Candidate type="Path">
+							<Value>Assets\Icons\Arnold.png</Value>
+						</Candidate>
+					</NamedResource>
 					<NamedResource name="Dank.png" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Icons/Dank.png">
 						<Candidate type="Path">
 							<Value>Assets\Icons\Dank.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Dwarf.png" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Icons/Dwarf.png">
+						<Candidate type="Path">
+							<Value>Assets\Icons\Dwarf.png</Value>
 						</Candidate>
 					</NamedResource>
 					<NamedResource name="Earrape.png" uri="ms-resource://b5d00977-10f1-4fdc-917c-3c5ec106770b/Files/Assets/Icons/Earrape.png">

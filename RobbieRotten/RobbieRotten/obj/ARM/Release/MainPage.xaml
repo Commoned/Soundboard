@@ -50,6 +50,7 @@
                                                                   
                             RelativePanel.AlignRightWithPanel="True">
             </AutoSuggestBox>
+            
         </RelativePanel>
 
         <SplitView x:ConnectionId='2' Grid.Row="1" Name="SplitView"
@@ -101,8 +102,8 @@
                         <GridView.ItemTemplate>
                             <DataTemplate                        >
                                 <StackPanel x:ConnectionId='10' Orientation="Vertical">
-                                    <Image x:ConnectionId='11' Name="MyImage" Height="112" Width="101"                            />
-                                    <TextBlock x:ConnectionId='12' Name="Imagetext" FontFamily="Comic Sans MS" Height="25" Width="101"                     />
+                                    <Image x:ConnectionId='11' Name="MyImage" Height="112" Width="150"                            />
+                                    <TextBlock x:ConnectionId='12' Name="Imagetext" FontFamily="Comic Sans MS" FontSize="12" Height="25" Width="150"                     />
                                 </StackPanel>
                             </DataTemplate>
                         </GridView.ItemTemplate>

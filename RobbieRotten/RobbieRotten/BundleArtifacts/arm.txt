@@ -1,3 +1,3 @@
-MainPackage=c:\users\timda\documents\visual studio 2015\Projects\RobbieRotten\RobbieRotten\bin\ARM\Release\RobbieRotten_1.0.3.0_ARM.appx
-SymbolPackage=C:\Users\timda\Documents\App Package\RobbieRotten_1.0.3.0_Test\RobbieRotten_1.0.3.0_ARM.appxsym
-ResourcePack=c:\users\timda\documents\visual studio 2015\Projects\RobbieRotten\RobbieRotten\bin\ARM\Release\RobbieRotten_1.0.3.0_scale-100.appx
+MainPackage=C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\Soundboard_1.0.4.0_ARM.appx
+SymbolPackage=C:\Users\timda\Documents\App Package\Soundboard_1.0.4.0_Test\Soundboard_1.0.4.0_ARM.appxsym
+ResourcePack=C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\Soundboard_1.0.4.0_scale-100.appx

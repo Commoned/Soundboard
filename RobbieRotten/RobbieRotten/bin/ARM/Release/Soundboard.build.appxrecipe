@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TIM-PC</Machine>
+    <WindowsUser>timda</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>b5d00977-10f1-4fdc-917c-3c5ec106770b</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\obj\ARM\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Amazing.wav">
+      <PackagePath>Assets\Audio\Arnold\Amazing.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Buulshit.wav">
+      <PackagePath>Assets\Audio\Arnold\Buulshit.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Chill out.wav">
+      <PackagePath>Assets\Audio\Arnold\Chill out.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Come and get me.wav">
+      <PackagePath>Assets\Audio\Arnold\Come and get me.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Do it now.wav">
+      <PackagePath>Assets\Audio\Arnold\Do it now.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Fuck you asswhore.wav">
+      <PackagePath>Assets\Audio\Arnold\Fuck you asswhore.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Fuck you.wav">
+      <PackagePath>Assets\Audio\Arnold\Fuck you.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Give me your address.wav">
+      <PackagePath>Assets\Audio\Arnold\Give me your address.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Go kiss moms ass.wav">
+      <PackagePath>Assets\Audio\Arnold\Go kiss moms ass.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Good morning.wav">
+      <PackagePath>Assets\Audio\Arnold\Good morning.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Hasta La Vista.wav">
+      <PackagePath>Assets\Audio\Arnold\Hasta La Vista.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Hello everybody.wav">
+      <PackagePath>Assets\Audio\Arnold\Hello everybody.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Howdy stranger.wav">
+      <PackagePath>Assets\Audio\Arnold\Howdy stranger.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Ill be Back.wav">
+      <PackagePath>Assets\Audio\Arnold\Ill be Back.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Im a cop.wav">
+      <PackagePath>Assets\Audio\Arnold\Im a cop.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Im hungry.wav">
+      <PackagePath>Assets\Audio\Arnold\Im hungry.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Inconsiderate.wav">
+      <PackagePath>Assets\Audio\Arnold\Inconsiderate.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\It has to end here.wav">
+      <PackagePath>Assets\Audio\Arnold\It has to end here.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\News for you.wav">
+      <PackagePath>Assets\Audio\Arnold\News for you.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\No Deal.wav">
+      <PackagePath>Assets\Audio\Arnold\No Deal.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\No problemo.wav">
+      <PackagePath>Assets\Audio\Arnold\No problemo.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Party Pooper.wav">
+      <PackagePath>Assets\Audio\Arnold\Party Pooper.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Psychopathic Bitch.wav">
+      <PackagePath>Assets\Audio\Arnold\Psychopathic Bitch.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Room for Fist.wav">
+      <PackagePath>Assets\Audio\Arnold\Room for Fist.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Showtime.wav">
+      <PackagePath>Assets\Audio\Arnold\Showtime.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Shut UP.wav">
+      <PackagePath>Assets\Audio\Arnold\Shut UP.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Son of a Bitch.wav">
+      <PackagePath>Assets\Audio\Arnold\Son of a Bitch.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Stahp it.wav">
+      <PackagePath>Assets\Audio\Arnold\Stahp it.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Stop Being a pussy.wav">
+      <PackagePath>Assets\Audio\Arnold\Stop Being a pussy.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Stop Shouting.wav">
+      <PackagePath>Assets\Audio\Arnold\Stop Shouting.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Stop whining.wav">
+      <PackagePath>Assets\Audio\Arnold\Stop whining.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Sue Me.wav">
+      <PackagePath>Assets\Audio\Arnold\Sue Me.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Take it back.wav">
+      <PackagePath>Assets\Audio\Arnold\Take it back.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Totally insane.wav">
+      <PackagePath>Assets\Audio\Arnold\Totally insane.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Want to Fuck with me.wav">
+      <PackagePath>Assets\Audio\Arnold\Want to Fuck with me.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Who are you.wav">
+      <PackagePath>Assets\Audio\Arnold\Who are you.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Who%27s your daddy.wav">
+      <PackagePath>Assets\Audio\Arnold\Who%27s your daddy.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Why Not.wav">
+      <PackagePath>Assets\Audio\Arnold\Why Not.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\Wrong.wav">
+      <PackagePath>Assets\Audio\Arnold\Wrong.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\WTF did I do wrong.wav">
+      <PackagePath>Assets\Audio\Arnold\WTF did I do wrong.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\WTH did you do.wav">
+      <PackagePath>Assets\Audio\Arnold\WTH did you do.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Arnold\You Idiot.wav">
+      <PackagePath>Assets\Audio\Arnold\You Idiot.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\2SAD4ME.wav">
+      <PackagePath>Assets\Audio\Dank\2SAD4ME.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\2SED4AIRHORN.wav">
+      <PackagePath>Assets\Audio\Dank\2SED4AIRHORN.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\AIRHORN SONATA.wav">
+      <PackagePath>Assets\Audio\Dank\AIRHORN SONATA.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\AIRHORN.wav">
+      <PackagePath>Assets\Audio\Dank\AIRHORN.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\AIRPORN.wav">
+      <PackagePath>Assets\Audio\Dank\AIRPORN.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\DAMN SON WOW.wav">
+      <PackagePath>Assets\Audio\Dank\DAMN SON WOW.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\Damn Son.wav">
+      <PackagePath>Assets\Audio\Dank\Damn Son.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\Darude - Dankstorm.wav">
+      <PackagePath>Assets\Audio\Dank\Darude - Dankstorm.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\DEDOTADED WAM.wav">
+      <PackagePath>Assets\Audio\Dank\DEDOTADED WAM.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\GET NOSCOPED.wav">
+      <PackagePath>Assets\Audio\Dank\GET NOSCOPED.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\HITMARKER.wav">
+      <PackagePath>Assets\Audio\Dank\HITMARKER.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\intervention 420.wav">
+      <PackagePath>Assets\Audio\Dank\intervention 420.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\MOM GET THE CAMERA.wav">
+      <PackagePath>Assets\Audio\Dank\MOM GET THE CAMERA.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\NEVER DONE THAT.wav">
+      <PackagePath>Assets\Audio\Dank\NEVER DONE THAT.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\Oh Baby A Triple.wav">
+      <PackagePath>Assets\Audio\Dank\Oh Baby A Triple.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\OOOHMYGOOD.wav">
+      <PackagePath>Assets\Audio\Dank\OOOHMYGOOD.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\SANIC.wav">
+      <PackagePath>Assets\Audio\Dank\SANIC.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\SHOTS FIRED.wav">
+      <PackagePath>Assets\Audio\Dank\SHOTS FIRED.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\SKRILLEX Scary.wav">
+      <PackagePath>Assets\Audio\Dank\SKRILLEX Scary.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\SMOKE WEEK EVERYDAY.wav">
+      <PackagePath>Assets\Audio\Dank\SMOKE WEEK EVERYDAY.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\SPOOKY.wav">
+      <PackagePath>Assets\Audio\Dank\SPOOKY.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\SUCC.wav">
+      <PackagePath>Assets\Audio\Dank\SUCC.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\tactical nuke.wav">
+      <PackagePath>Assets\Audio\Dank\tactical nuke.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\Whatcha Say.wav">
+      <PackagePath>Assets\Audio\Dank\Whatcha Say.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\WOMBO COMBO.wav">
+      <PackagePath>Assets\Audio\Dank\WOMBO COMBO.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dank\wow-.wav">
+      <PackagePath>Assets\Audio\Dank\wow-.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Attack This one.wav">
+      <PackagePath>Assets\Audio\Dwarf\Attack This one.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Attack.wav">
+      <PackagePath>Assets\Audio\Dwarf\Attack.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Boomstick.wav">
+      <PackagePath>Assets\Audio\Dwarf\Boomstick.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Brilliant.wav">
+      <PackagePath>Assets\Audio\Dwarf\Brilliant.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Cant drink.wav">
+      <PackagePath>Assets\Audio\Dwarf\Cant drink.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Cant shoot straight.wav">
+      <PackagePath>Assets\Audio\Dwarf\Cant shoot straight.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Charge.wav">
+      <PackagePath>Assets\Audio\Dwarf\Charge.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Chicken.wav">
+      <PackagePath>Assets\Audio\Dwarf\Chicken.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Cry.wav">
+      <PackagePath>Assets\Audio\Dwarf\Cry.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Damn straight.wav">
+      <PackagePath>Assets\Audio\Dwarf\Damn straight.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Dont drink anymore.wav">
+      <PackagePath>Assets\Audio\Dwarf\Dont drink anymore.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Dwarven song.wav">
+      <PackagePath>Assets\Audio\Dwarf\Dwarven song.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Enough of this.wav">
+      <PackagePath>Assets\Audio\Dwarf\Enough of this.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Fantastic.wav">
+      <PackagePath>Assets\Audio\Dwarf\Fantastic.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Follow Me.wav">
+      <PackagePath>Assets\Audio\Dwarf\Follow Me.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\For Khaz Modan.wav">
+      <PackagePath>Assets\Audio\Dwarf\For Khaz Modan.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Generosity.wav">
+      <PackagePath>Assets\Audio\Dwarf\Generosity.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Greetings.wav">
+      <PackagePath>Assets\Audio\Dwarf\Greetings.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Guns dont kill people.wav">
+      <PackagePath>Assets\Audio\Dwarf\Guns dont kill people.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Hahahaha.wav">
+      <PackagePath>Assets\Audio\Dwarf\Hahahaha.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Heal Me.wav">
+      <PackagePath>Assets\Audio\Dwarf\Heal Me.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Hello.wav">
+      <PackagePath>Assets\Audio\Dwarf\Hello.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Help Me.wav">
+      <PackagePath>Assets\Audio\Dwarf\Help Me.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\How are ya.wav">
+      <PackagePath>Assets\Audio\Dwarf\How are ya.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Hows it hangin.wav">
+      <PackagePath>Assets\Audio\Dwarf\Hows it hangin.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\I dont have a problem.wav">
+      <PackagePath>Assets\Audio\Dwarf\I dont have a problem.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\I need Healin.wav">
+      <PackagePath>Assets\Audio\Dwarf\I need Healin.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\I shot the Sheriff.wav">
+      <PackagePath>Assets\Audio\Dwarf\I shot the Sheriff.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Lets get to it.wav">
+      <PackagePath>Assets\Audio\Dwarf\Lets get to it.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Like my Beer.wav">
+      <PackagePath>Assets\Audio\Dwarf\Like my Beer.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Meet Again.wav">
+      <PackagePath>Assets\Audio\Dwarf\Meet Again.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Not on your Life.wav">
+      <PackagePath>Assets\Audio\Dwarf\Not on your Life.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Open Fire.wav">
+      <PackagePath>Assets\Audio\Dwarf\Open Fire.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Pry it from my Hands.wav">
+      <PackagePath>Assets\Audio\Dwarf\Pry it from my Hands.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Run away.wav">
+      <PackagePath>Assets\Audio\Dwarf\Run away.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\See ya.wav">
+      <PackagePath>Assets\Audio\Dwarf\See ya.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\social drinker.wav">
+      <PackagePath>Assets\Audio\Dwarf\social drinker.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Sure.wav">
+      <PackagePath>Assets\Audio\Dwarf\Sure.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Thank You.wav">
+      <PackagePath>Assets\Audio\Dwarf\Thank You.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Theres me drink.wav">
+      <PackagePath>Assets\Audio\Dwarf\Theres me drink.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Where%27s me drink.wav">
+      <PackagePath>Assets\Audio\Dwarf\Where%27s me drink.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Dwarf\Youre nice.wav">
+      <PackagePath>Assets\Audio\Dwarf\Youre nice.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Earrape\Dong zhu Buxu zou.wav">
+      <PackagePath>Assets\Audio\Earrape\Dong zhu Buxu zou.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Earrape\Drop the Beat.wav">
+      <PackagePath>Assets\Audio\Earrape\Drop the Beat.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Earrape\Embrace Tranquility.wav">
+      <PackagePath>Assets\Audio\Earrape\Embrace Tranquility.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Earrape\High Noon.wav">
+      <PackagePath>Assets\Audio\Earrape\High Noon.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Games\Wrex Right Behind You.wav">
+      <PackagePath>Assets\Audio\Games\Wrex Right Behind You.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Overwatch\Déjà vu.wav">
+      <PackagePath>Assets\Audio\Overwatch\Déjà vu.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\Before Us you Are Nothing.wav">
+      <PackagePath>Assets\Audio\Sovereign\Before Us you Are Nothing.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\Beyond Comprehension.wav">
+      <PackagePath>Assets\Audio\Sovereign\Beyond Comprehension.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\Cycle cannot be broken.wav">
+      <PackagePath>Assets\Audio\Sovereign\Cycle cannot be broken.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\Each a nation.wav">
+      <PackagePath>Assets\Audio\Sovereign\Each a nation.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\End of Everything.wav">
+      <PackagePath>Assets\Audio\Sovereign\End of Everything.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\Eternal.wav">
+      <PackagePath>Assets\Audio\Sovereign\Eternal.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\Extinction Inevitable.wav">
+      <PackagePath>Assets\Audio\Sovereign\Extinction Inevitable.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\Impose Order.wav">
+      <PackagePath>Assets\Audio\Sovereign\Impose Order.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\Infinite.wav">
+      <PackagePath>Assets\Audio\Sovereign\Infinite.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\Legion.wav">
+      <PackagePath>Assets\Audio\Sovereign\Legion.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\No Beginning.wav">
+      <PackagePath>Assets\Audio\Sovereign\No Beginning.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\No escape.wav">
+      <PackagePath>Assets\Audio\Sovereign\No escape.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\Our numbers.wav">
+      <PackagePath>Assets\Audio\Sovereign\Our numbers.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\Reaper.wav">
+      <PackagePath>Assets\Audio\Sovereign\Reaper.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\Return is Coming.wav">
+      <PackagePath>Assets\Audio\Sovereign\Return is Coming.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\This Exchange is Over.wav">
+      <PackagePath>Assets\Audio\Sovereign\This Exchange is Over.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Audio\Sovereign\You are allowed.wav">
+      <PackagePath>Assets\Audio\Sovereign\You are allowed.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Icons\Arnold.png">
+      <PackagePath>Assets\Icons\Arnold.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Icons\dank.png">
+      <PackagePath>Assets\Icons\dank.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Icons\Dwarf.png">
+      <PackagePath>Assets\Icons\Dwarf.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Icons\Earrape.png">
+      <PackagePath>Assets\Icons\Earrape.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Icons\Games.png">
+      <PackagePath>Assets\Icons\Games.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Icons\overwatch.png">
+      <PackagePath>Assets\Icons\overwatch.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Icons\Sovereign.png">
+      <PackagePath>Assets\Icons\Sovereign.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Succ.png">
+      <PackagePath>Assets\Succ.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\succ1.png">
+      <PackagePath>Assets\succ1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\RobbieRotten.dll">
+      <PackagePath>RobbieRotten.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\timda\Source\Repos\SoundBoard\RobbieRotten\RobbieRotten\bin\ARM\Release\ilc\RobbieRotten.exe">
+      <PackagePath>RobbieRotten.exe</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\arm\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\x64\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\x86\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x64\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x86\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

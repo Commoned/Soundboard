@@ -34,6 +34,7 @@ namespace RobbieRotten
             MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/overwatch.png", Category = SoundCategory.Overwatch });
             MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/Sovereign.png", Category = SoundCategory.Sovereign });
             MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/Dwarf.png", Category = SoundCategory.Dwarf });
+            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/Arnold.png", Category = SoundCategory.Arnold });
 
             BackButton.Visibility = Visibility.Collapsed;
         }
