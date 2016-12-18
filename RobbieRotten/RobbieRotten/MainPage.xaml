@@ -50,6 +50,11 @@
                             QuerySubmitted="Search_QuerySubmitted"
                             RelativePanel.AlignRightWithPanel="True">
             </AutoSuggestBox>
+            <TextBlock Text="{x:Bind vol}"
+                       FontSize="18"
+                       Width="50"
+                       Height="45"
+                       RelativePanel.LeftOf="AutoSuggestBox"
         </RelativePanel>
 
         <SplitView Grid.Row="1" Name="SplitView"
