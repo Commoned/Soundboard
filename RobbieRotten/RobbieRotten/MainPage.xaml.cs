@@ -129,6 +129,7 @@ namespace RobbieRotten
         private void SoundGridView_ItemClick(object sender, ItemClickEventArgs e)
         {
             var sound = (Sound)e.ClickedItem;
+            var vol = MyMediaElement.Volume;
             if (sound.Category == SoundCategory.Earrape)
                 MyMediaElement.Volume = 0.2f;
             else
