@@ -50,11 +50,7 @@
                             QuerySubmitted="Search_QuerySubmitted"
                             RelativePanel.AlignRightWithPanel="True">
             </AutoSuggestBox>
-            <TextBlock Text="{x:Bind vol}"
-                       FontSize="18"
-                       Width="50"
-                       Height="45"
-                       RelativePanel.LeftOf="AutoSuggestBox"
+            
         </RelativePanel>
 
         <SplitView Grid.Row="1" Name="SplitView"
@@ -106,8 +102,8 @@
                         <GridView.ItemTemplate>
                             <DataTemplate x:DataType="data:Sound">
                                 <StackPanel Orientation="Vertical">
-                                    <Image Name="MyImage" Height="112" Width="101" Source="{x:Bind ImageFile}"/>
-                                    <TextBlock Name="Imagetext" FontFamily="Comic Sans MS" Height="25" Width="101" Text="{x:Bind Name}"/>
+                                    <Image Name="MyImage" Height="112" Width="150" Source="{x:Bind ImageFile}"/>
+                                    <TextBlock Name="Imagetext" FontFamily="Comic Sans MS" FontSize="12" Height="25" Width="150" Text="{x:Bind Name}"/>
                                 </StackPanel>
                             </DataTemplate>
                         </GridView.ItemTemplate>

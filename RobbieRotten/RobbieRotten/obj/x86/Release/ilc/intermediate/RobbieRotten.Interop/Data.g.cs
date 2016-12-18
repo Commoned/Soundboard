@@ -3734,27 +3734,27 @@ namespace McgInterop
 	//     + Total Forward Stubs = 1220
 	//     + Total Reverse Stubs = 509 (36 shared stubs, 0 delegate to shared stubs. 509 normal stubs)
 	//     + Unshared Forward Stubs = 0
-	//     + Shared Forward Stubs = 2088
+	//     + Shared Forward Stubs = 2089
 	//     + Shared Target Forward Stubs = 1201
-	//     + Shared Target Forward Stubs Cache Hit = 887
+	//     + Shared Target Forward Stubs Cache Hit = 888
 	// 
 	// Type/Method Data
 		//
 	//     + WinRT interfaces : 435
 	//     + WinRT classes : 180
 	//     + WinRT delegates : 44
-	//     + WinRT class methods : 843
+	//     + WinRT class methods : 844
 	//     + dispatch classes : 468
-	//     + dispatch methods : 1305
+	//     + dispatch methods : 1306
 	//     + stub classes : 717
-	//     + stub methods : 2091
+	//     + stub methods : 2092
 	//     + vtables : 1002
-	//     + vtable methods : 2149
+	//     + vtable methods : 2150
 	// 
 	// Reducer Data
 		//
 	//     + discarded v-tables : 679
-	//     + discarded v-table methods : 1724
+	//     + discarded v-table methods : 1725
 	//     + discarded class methods : 0
 	//     + discarded dispatch class methods : 248
 	//     + discarded stub class methods : 3
@@ -15113,16 +15113,16 @@ namespace McgInterop
 		// Count=882
 		[global::System.Runtime.CompilerServices.PreInitialized]
 		static readonly byte[] s_ccwTemplateData_Hashtable = new byte[] {
-				17, 34, 0, 79, 0, 112, 0, 157, 0, 202, 0, 250, 0, 30, 1, 54, 1, 75, 1, 123, 1, 150, 1, 192, 1, 237, 1, 255, 1, 29, 2, 71, 2, 107, 2, 17, 233, 12, 17, 221, 11, 78, 97, 11, 84, 213, 9, 90, 169, 10, 
-				110, 153, 10, 113, 81, 9, 139, 185, 9, 145, 213, 8, 158, 141, 12, 164, 41, 12, 166, 149, 12, 220, 165, 9, 224, 5, 11, 237, 57, 9, 9, 137, 8, 98, 113, 10, 115, 21, 10, 135, 57, 11, 142, 101, 8, 182, 9, 11, 200, 173, 
-				8, 217, 41, 9, 219, 105, 9, 233, 169, 9, 244, 177, 8, 7, 105, 9, 21, 137, 9, 24, 209, 8, 56, 213, 11, 57, 181, 9, 67, 1, 8, 99, 101, 8, 112, 5, 11, 121, 225, 8, 163, 161, 8, 180, 81, 8, 202, 245, 10, 207, 
-				181, 7, 228, 157, 10, 241, 145, 8, 56, 85, 8, 66, 65, 10, 74, 161, 7, 97, 17, 7, 117, 229, 9, 138, 249, 9, 152, 249, 6, 168, 69, 8, 169, 97, 8, 179, 49, 8, 180, 101, 10, 226, 225, 8, 227, 173, 9, 227, 117, 8, 
-				241, 89, 8, 21, 113, 10, 56, 109, 7, 74, 81, 7, 82, 149, 9, 83, 129, 6, 95, 193, 7, 112, 81, 6, 146, 17, 7, 152, 37, 6, 173, 5, 8, 182, 185, 8, 203, 117, 8, 234, 189, 6, 235, 149, 6, 246, 41, 6, 254, 141, 
-				8, 58, 37, 6, 79, 169, 7, 130, 237, 6, 141, 157, 7, 178, 201, 7, 189, 165, 7, 197, 65, 6, 213, 237, 5, 220, 193, 7, 222, 61, 8, 229, 233, 7, 229, 149, 5, 26, 9, 7, 34, 45, 7, 57, 65, 7, 98, 37, 7, 160, 
-				97, 5, 183, 173, 7, 183, 25, 8, 241, 61, 8, 60, 57, 8, 91, 149, 6, 95, 93, 5, 125, 93, 8, 171, 41, 7, 212, 53, 5, 234, 77, 6, 6, 161, 4, 7, 57, 6, 16, 177, 5, 55, 65, 8, 57, 69, 7, 63, 173, 5, 
-				66, 201, 4, 127, 161, 7, 158, 237, 4, 182, 57, 5, 183, 49, 4, 205, 53, 4, 222, 189, 7, 231, 193, 5, 241, 113, 5, 255, 89, 4, 71, 121, 5, 85, 129, 6, 95, 41, 5, 146, 213, 4, 162, 193, 3, 212, 137, 3, 214, 125, 
-				4, 251, 177, 5, 253, 49, 4, 6, 145, 3, 14, 121, 4, 29, 61, 4, 42, 161, 3, 58, 9, 5, 66, 129, 3, 88, 177, 3, 97, 81, 4, 109, 137, 6, 124, 125, 5, 165, 29, 3, 213, 189, 3, 229, 121, 3, 243, 37, 5, 43, 
-				241, 2, 52, 53, 4, 54, 233, 5, 65, 13, 6, 84, 241, 3, 119, 185, 2, 127, 153, 2, 168, 41, 4, 173, 101, 3, 210, 233, 2, 211, 65, 2, 221, 213, 3, 237, 73, 3, 247, 85, 5, 250, 249, 3, 37, 245, 5, 107, 41, 4, 
+				17, 34, 0, 76, 0, 109, 0, 154, 0, 202, 0, 253, 0, 33, 1, 57, 1, 78, 1, 126, 1, 156, 1, 195, 1, 237, 1, 255, 1, 29, 2, 71, 2, 107, 2, 17, 233, 12, 17, 221, 11, 78, 97, 11, 84, 213, 9, 90, 169, 10, 
+				110, 153, 10, 113, 81, 9, 139, 185, 9, 158, 153, 12, 164, 53, 12, 166, 161, 12, 220, 177, 9, 224, 17, 11, 237, 69, 9, 9, 149, 8, 98, 125, 10, 115, 33, 10, 135, 69, 11, 142, 113, 8, 182, 21, 11, 200, 185, 8, 217, 53, 
+				9, 219, 117, 9, 233, 181, 9, 244, 189, 8, 7, 117, 9, 21, 149, 9, 24, 221, 8, 56, 225, 11, 57, 193, 9, 67, 13, 8, 99, 113, 8, 112, 17, 11, 121, 237, 8, 163, 173, 8, 180, 93, 8, 202, 1, 11, 207, 193, 7, 228, 
+				169, 10, 241, 157, 8, 56, 97, 8, 66, 77, 10, 74, 173, 7, 97, 29, 7, 117, 241, 9, 137, 69, 7, 138, 249, 9, 152, 249, 6, 168, 69, 8, 169, 97, 8, 179, 49, 8, 180, 101, 10, 226, 225, 8, 227, 129, 8, 227, 161, 9, 
+				241, 89, 8, 21, 113, 10, 56, 109, 7, 74, 81, 7, 82, 149, 9, 83, 129, 6, 95, 193, 7, 112, 81, 6, 146, 17, 7, 152, 37, 6, 159, 37, 6, 173, 249, 7, 182, 173, 8, 203, 105, 8, 234, 177, 6, 235, 137, 6, 246, 29, 
+				6, 254, 129, 8, 58, 25, 6, 79, 157, 7, 130, 225, 6, 141, 145, 7, 178, 189, 7, 189, 153, 7, 197, 53, 6, 213, 225, 5, 220, 181, 7, 222, 49, 8, 229, 149, 5, 229, 209, 7, 26, 253, 6, 34, 33, 7, 57, 53, 7, 98, 
+				25, 7, 160, 85, 5, 183, 161, 7, 183, 13, 8, 241, 49, 8, 60, 45, 8, 91, 137, 6, 95, 81, 5, 125, 81, 8, 171, 29, 7, 212, 41, 5, 234, 65, 6, 6, 149, 4, 7, 45, 6, 16, 165, 5, 55, 53, 8, 57, 57, 7, 
+				63, 161, 5, 66, 189, 4, 127, 149, 7, 158, 225, 4, 182, 45, 5, 183, 37, 4, 205, 41, 4, 222, 177, 7, 231, 181, 5, 241, 101, 5, 255, 77, 4, 71, 109, 5, 85, 117, 6, 95, 29, 5, 130, 161, 3, 146, 189, 4, 162, 169, 
+				3, 212, 113, 3, 214, 101, 4, 251, 153, 5, 253, 25, 4, 14, 109, 4, 29, 49, 4, 42, 149, 3, 58, 253, 4, 66, 117, 3, 88, 165, 3, 97, 69, 4, 109, 125, 6, 124, 113, 5, 165, 17, 3, 213, 177, 3, 229, 109, 3, 243, 
+				25, 5, 43, 229, 2, 52, 41, 4, 54, 221, 5, 65, 1, 6, 84, 229, 3, 119, 173, 2, 127, 141, 2, 168, 29, 4, 173, 89, 3, 210, 221, 2, 221, 213, 3, 237, 73, 3, 247, 85, 5, 250, 249, 3, 37, 245, 5, 107, 41, 4, 
 				124, 217, 2, 133, 217, 5, 149, 101, 5, 245, 53, 2, 28, 61, 4, 121, 45, 2, 135, 253, 3, 140, 161, 2, 154, 37, 4, 168, 81, 5, 183, 117, 4, 187, 121, 1, 191, 157, 3, 239, 225, 2, 5, 157, 1, 14, 197, 1, 30, 249, 
 				1, 37, 81, 4, 52, 117, 1, 88, 37, 2, 122, 209, 2, 139, 105, 2, 151, 101, 2, 172, 181, 2, 174, 97, 2, 218, 189, 1, 235, 61, 1, 241, 77, 1, 37, 253, 1, 54, 169, 3, 66, 181, 1, 79, 201, 1, 101, 165, 1, 115, 
 				69, 1, 115, 253, 3, 133, 113, 1, 145, 193, 1, 174, 149, 1, 199, 213, 3, 249, 41, 3, 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 
@@ -15370,8 +15370,8 @@ namespace McgInterop
 				}, 
 				// Index = 4
 				new global::System.Runtime.InteropServices.CCWTemplateData() {
-					FixupClassType = new global::Internal.Runtime.CompilerServices.FixupRuntimeTypeHandle(global::System.Runtime.InteropServices.TypeOfHelper.RuntimeTypeHandleOf("RobbieRotten.RobbieRotten_XamlTypeInfo.XamlUserType, RobbieRotten, Version=1.0.0.0, Culture=neutral, PublicKeyTo" +
-								"ken=null")), // hashcode: ab63bbd3
+					FixupClassType = new global::Internal.Runtime.CompilerServices.FixupRuntimeTypeHandle(global::System.Runtime.InteropServices.TypeOfHelper.RuntimeTypeHandleOf("RobbieRotten.Soundboard_XamlTypeInfo.XamlUserType, RobbieRotten, Version=1.0.0.0, Culture=neutral, PublicKeyToke" +
+								"n=null")), // hashcode: 203d949f
 					SupportedInterfaceListBeginIndex = 9,
 					NumberOfSupportedInterface = 0,
 					ParentCCWTemplateIndex = 5,
@@ -15379,8 +15379,8 @@ namespace McgInterop
 				}, 
 				// Index = 5
 				new global::System.Runtime.InteropServices.CCWTemplateData() {
-					FixupClassType = new global::Internal.Runtime.CompilerServices.FixupRuntimeTypeHandle(global::System.Runtime.InteropServices.TypeOfHelper.RuntimeTypeHandleOf("RobbieRotten.RobbieRotten_XamlTypeInfo.XamlSystemBaseType, RobbieRotten, Version=1.0.0.0, Culture=neutral, Publi" +
-								"cKeyToken=null")), // hashcode: 840b0091
+					FixupClassType = new global::Internal.Runtime.CompilerServices.FixupRuntimeTypeHandle(global::System.Runtime.InteropServices.TypeOfHelper.RuntimeTypeHandleOf("RobbieRotten.Soundboard_XamlTypeInfo.XamlSystemBaseType, RobbieRotten, Version=1.0.0.0, Culture=neutral, PublicK" +
+								"eyToken=null")), // hashcode: fe961982
 					SupportedInterfaceListBeginIndex = 9,
 					NumberOfSupportedInterface = 1,
 					ParentCCWTemplateIndex = -1,
@@ -15477,8 +15477,8 @@ namespace McgInterop
 				}, 
 				// Index = 16
 				new global::System.Runtime.InteropServices.CCWTemplateData() {
-					FixupClassType = new global::Internal.Runtime.CompilerServices.FixupRuntimeTypeHandle(global::System.Runtime.InteropServices.TypeOfHelper.RuntimeTypeHandleOf("RobbieRotten.RobbieRotten_XamlTypeInfo.XamlMember, RobbieRotten, Version=1.0.0.0, Culture=neutral, PublicKeyToke" +
-								"n=null")), // hashcode: 26e27a06
+					FixupClassType = new global::Internal.Runtime.CompilerServices.FixupRuntimeTypeHandle(global::System.Runtime.InteropServices.TypeOfHelper.RuntimeTypeHandleOf("RobbieRotten.Soundboard_XamlTypeInfo.XamlMember, RobbieRotten, Version=1.0.0.0, Culture=neutral, PublicKeyToken=" +
+								"null")), // hashcode: ed9a8389
 					SupportedInterfaceListBeginIndex = 37,
 					NumberOfSupportedInterface = 1,
 					ParentCCWTemplateIndex = -1,
@@ -24094,10 +24094,10 @@ namespace McgInterop
 			[global::System.Runtime.CompilerServices.TypeHandleFixup(48, "RobbieRotten.App, RobbieRotten, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null")]
 			[global::System.Runtime.CompilerServices.TypeHandleFixup(72, "Windows.UI.Xaml.Application, Windows, Version=255.255.255.255, Culture=neutral, PublicKeyToken=null, ContentType" +
 				"=WindowsRuntime")]
-			[global::System.Runtime.CompilerServices.TypeHandleFixup(96, "RobbieRotten.RobbieRotten_XamlTypeInfo.XamlUserType, RobbieRotten, Version=1.0.0.0, Culture=neutral, PublicKeyTo" +
-				"ken=null")]
-			[global::System.Runtime.CompilerServices.TypeHandleFixup(120, "RobbieRotten.RobbieRotten_XamlTypeInfo.XamlSystemBaseType, RobbieRotten, Version=1.0.0.0, Culture=neutral, Publi" +
-				"cKeyToken=null")]
+			[global::System.Runtime.CompilerServices.TypeHandleFixup(96, "RobbieRotten.Soundboard_XamlTypeInfo.XamlUserType, RobbieRotten, Version=1.0.0.0, Culture=neutral, PublicKeyToke" +
+				"n=null")]
+			[global::System.Runtime.CompilerServices.TypeHandleFixup(120, "RobbieRotten.Soundboard_XamlTypeInfo.XamlSystemBaseType, RobbieRotten, Version=1.0.0.0, Culture=neutral, PublicK" +
+				"eyToken=null")]
 			[global::System.Runtime.CompilerServices.TypeHandleFixup(144, "RobbieRotten.MainPage, RobbieRotten, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null")]
 			[global::System.Runtime.CompilerServices.TypeHandleFixup(168, "Windows.UI.Xaml.Controls.Page, Windows, Version=255.255.255.255, Culture=neutral, PublicKeyToken=null, ContentTy" +
 				"pe=WindowsRuntime")]
@@ -24117,8 +24117,8 @@ namespace McgInterop
 				"l")]
 			[global::System.Runtime.CompilerServices.TypeHandleFixup(360, "RobbieRotten.MainPage+MainPage_obj10_Bindings, RobbieRotten, Version=1.0.0.0, Culture=neutral, PublicKeyToken=nu" +
 				"ll")]
-			[global::System.Runtime.CompilerServices.TypeHandleFixup(384, "RobbieRotten.RobbieRotten_XamlTypeInfo.XamlMember, RobbieRotten, Version=1.0.0.0, Culture=neutral, PublicKeyToke" +
-				"n=null")]
+			[global::System.Runtime.CompilerServices.TypeHandleFixup(384, "RobbieRotten.Soundboard_XamlTypeInfo.XamlMember, RobbieRotten, Version=1.0.0.0, Culture=neutral, PublicKeyToken=" +
+				"null")]
 			[global::System.Runtime.CompilerServices.TypeHandleFixup(408, "Microsoft.ApplicationInsights.Extensibility.Implementation.Tracing.DiagnoisticsEventThrottlingScheduler, Microso" +
 				"ft.ApplicationInsights, Version=1.0.0.4220, Culture=neutral, PublicKeyToken=31bf3856ad364e35")]
 			[global::System.Runtime.CompilerServices.TypeHandleFixup(432, "Microsoft.ApplicationInsights.Extensibility.Windows.PageViewTelemetryModule, Microsoft.ApplicationInsights.Exten" +

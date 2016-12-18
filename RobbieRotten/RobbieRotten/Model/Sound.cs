@@ -28,6 +28,7 @@ namespace RobbieRotten.Model
         Earrape,
         Games,
         Overwatch,
-        Sovereign
+        Sovereign,
+        Dwarf
     }
 }

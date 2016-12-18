@@ -54747,6 +54747,19 @@ namespace Windows.UI.Xaml.Controls
 
 			[global::System.Runtime.InteropServices.McgGeneratedMarshallingCode]
 			[global::System.Runtime.CompilerServices.MethodImpl(global::System.Runtime.CompilerServices.MethodImplOptions.AggressiveInlining)]
+			public static double get_Volume(global::System.__ComObject __this)
+			{
+				double __ret = global::McgInterop.ForwardComSharedStubs.Func_double__(
+									__this, 
+									typeof(global::Windows.UI.Xaml.Controls.IMediaElement).TypeHandle, 
+									global::Windows.UI.Xaml.Controls.IMediaElement__Impl.Vtbl.idx_get_Volume
+								);
+				global::System.Runtime.InteropServices.DebugAnnotations.PreviousCallContainsUserCode();
+				return __ret;
+			}
+
+			[global::System.Runtime.InteropServices.McgGeneratedMarshallingCode]
+			[global::System.Runtime.CompilerServices.MethodImpl(global::System.Runtime.CompilerServices.MethodImplOptions.AggressiveInlining)]
 			public static void put_Volume(
 						global::System.__ComObject __this, 
 						double value)
@@ -55136,6 +55149,15 @@ namespace Windows.UI.Xaml.Controls
 			}
 
 			[global::System.Runtime.InteropServices.McgGeneratedMarshallingCode]
+			[global::System.Runtime.InteropServices.McgAccessor(global::System.Runtime.InteropServices.McgAccessorKind.PropertyGet, "Windows.UI.Xaml.Controls.IMediaElement.Volume")]
+			double global::Windows.UI.Xaml.Controls.IMediaElement.get_Volume()
+			{
+				double __retVal = global::Windows.UI.Xaml.Controls.IMediaElement__Impl.StubClass.get_Volume(this);
+				global::System.Runtime.InteropServices.DebugAnnotations.PreviousCallContainsUserCode();
+				return __retVal;
+			}
+
+			[global::System.Runtime.InteropServices.McgGeneratedMarshallingCode]
 			[global::System.Runtime.InteropServices.McgAccessor(global::System.Runtime.InteropServices.McgAccessorKind.PropertySet, "Windows.UI.Xaml.Controls.IMediaElement.Volume")]
 			void global::Windows.UI.Xaml.Controls.IMediaElement.put_Volume(double value)
 			{
@@ -55404,6 +55426,7 @@ namespace Windows.UI.Xaml.Controls
 			internal const int idx_put_Source = 9;
 			internal const int idx_get_AutoPlay = 13;
 			internal const int idx_put_AutoPlay = 14;
+			internal const int idx_get_Volume = 15;
 			internal const int idx_put_Volume = 16;
 			internal const int idx_add_MediaOpened = 56;
 			internal const int idx_remove_MediaOpened = 57;

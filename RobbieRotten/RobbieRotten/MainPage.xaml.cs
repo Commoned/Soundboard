@@ -29,10 +29,11 @@ namespace RobbieRotten
 
             MenuItems = new List<MenuItem>();
             MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/dank.png", Category = SoundCategory.Dank });
-            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/game.png", Category = SoundCategory.Games });
+            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/Games.png", Category = SoundCategory.Games });
             MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/Earrape.png", Category = SoundCategory.Earrape });
             MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/overwatch.png", Category = SoundCategory.Overwatch });
             MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/Sovereign.png", Category = SoundCategory.Sovereign });
+            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/Dwarf.png", Category = SoundCategory.Dwarf });
 
             BackButton.Visibility = Visibility.Collapsed;
         }
